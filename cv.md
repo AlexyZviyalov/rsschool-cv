@@ -11,3 +11,6 @@
 ## Education
 7. Swift courses
 8. Fluent English
+![Image cloud] 
+(https://github.com/AlexyZviyalov/rsschool-cv/blob/gh-pages/smoking-smoke-clouds-smoke-white-clouds-png-clip-art.png)
+- [x] This is good cv
